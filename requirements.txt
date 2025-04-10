@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 streamlit
 requests
 python-dotenv
+=======
+fastapi
+uvicorn
+pymongo
+python-dotenv
+python-jose
+passlib[bcrypt]
+openai
+pdfplumber
+fpdf
+>>>>>>> e454cf0b4b65d322b1ea43bb82a1aaa241efe54d

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/Users/phanirajendra/Documents/ai_platform/frontend/.venv/bin/python3
+=======
+#!/Users/phanirajendra/Documents/ai_platform/backend/.venv/bin/python3
+>>>>>>> e454cf0b4b65d322b1ea43bb82a1aaa241efe54d
 # -*- coding: utf-8 -*-
 import re
 import sys

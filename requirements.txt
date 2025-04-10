@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 streamlit
 requests
 python-dotenv
-=======
+
 fastapi
 uvicorn
 pymongo

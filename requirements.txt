@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+python-jose
+passlib[bcrypt]
+openai
+pdfplumber
+fpdf
